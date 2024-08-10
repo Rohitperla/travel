@@ -1,6 +1,6 @@
 {
   
-  "Indian Tours": [
+  "Indian-Tours": [
     { "id":"1",
       "name": "Golden Triangle Tour",
       "description": "Experience the rich history and culture of India with a 6-day tour covering Delhi, Agra, and Jaipur.",
@@ -587,7 +587,7 @@
       "image": "https://example.com/images/goa-carnival.jpg"
     }
   ],
-  "International Tours":[
+  "International-Tours":[
     [
       { "id":1,
         "name": "Paris and French Riviera Tour",
